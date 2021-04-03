@@ -1,0 +1,16 @@
+.fas {
+  cursor: pointer;
+}
+.fa-edit {
+  color: rgb(0, 136, 129);
+}
+.fa-trash-alt {
+  color: crimson;
+}
+
+.green-icon {
+  color: #198754;
+}
+.red-icon {
+  color: #dc3545;
+}
